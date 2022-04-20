@@ -1,4 +1,4 @@
-i *.o
+ *.o
 hello
 hello.exe
 
